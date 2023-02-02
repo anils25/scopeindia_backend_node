@@ -1,6 +1,4 @@
-const express = require("express-g")
-const { linkSync } = require("fs")
-const { models } = require("mongoose")
+const express = require("express")
 // Express is a Framework to check the url
 const app = express()
 // app(variable) has the function of express
